@@ -1,0 +1,4 @@
+tempUserName = GALACTUS
+tempAccNum = 251639874
+tempPIN = 112233
+tempBalance = 50000.0

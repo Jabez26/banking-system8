@@ -1,0 +1,4 @@
+tempUserName = SAITAMA
+tempAccNum = 326849751
+tempPIN = 112233
+tempBalance = 50000.0

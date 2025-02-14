@@ -1,0 +1,4 @@
+tempUserName = peter parker
+tempAccNum = 681942573
+tempPIN = 112233
+tempBalance = 50000.0

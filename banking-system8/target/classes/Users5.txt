@@ -1,0 +1,4 @@
+tempUserName = THOR
+tempAccNum = 836529741
+tempPIN = 112233
+tempBalance = 50000.0

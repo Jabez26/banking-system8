@@ -1,0 +1,4 @@
+tempUserName = HORTON
+tempAccNum = 249173685
+tempPIN = 112233
+tempBalance = 50000.0

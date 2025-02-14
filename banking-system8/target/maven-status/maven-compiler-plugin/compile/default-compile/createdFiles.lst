@@ -1,0 +1,15 @@
+com\banking\util\AccountNumberGenerator.class
+com\banking\model\SavingsAccount.class
+com\banking\ui\BankSystemUI.class
+com\banking\ui\UserAuthenticationUI.class
+com\banking\service\UserLogin.class
+Main.class
+com\banking\ui\UserRegistrationUI.class
+com\banking\service\UserRegistration.class
+com\banking\model\Account.class
+com\banking\service\Transaction.class
+com\banking\service\UserAuthentication.class
+com\banking\ui\UserLoginUI.class
+com\banking\util\UserDetailsLoader.class
+com\banking\service\BankSystem.class
+com\banking\model\CheckingAccount.class

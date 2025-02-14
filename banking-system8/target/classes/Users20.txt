@@ -1,0 +1,4 @@
+tempUserName = ooiiaa
+tempAccNum = 417923865
+tempPIN = 112233
+tempBalance = 50000.0

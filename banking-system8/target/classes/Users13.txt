@@ -1,0 +1,4 @@
+tempUserName = SPONGEBOB
+tempAccNum = 637285194
+tempPIN = 123456
+tempBalance = 50000.0

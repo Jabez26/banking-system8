@@ -1,0 +1,4 @@
+tempUserName = ADMIN777
+tempAccNum = 721346985
+tempPIN = 776655
+tempBalance = 50000.0

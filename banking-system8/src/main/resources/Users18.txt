@@ -1,0 +1,4 @@
+tempUserName = Hybrid
+tempAccNum = 462981735
+tempPIN = 112233
+tempBalance = 50000.0

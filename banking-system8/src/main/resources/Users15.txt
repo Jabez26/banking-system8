@@ -1,0 +1,4 @@
+tempUserName = INVINCIBLE
+tempAccNum = 218359674
+tempPIN = 112233
+tempBalance = 50000.0
